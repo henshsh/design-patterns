@@ -1,0 +1,16 @@
+Quiz Demo
+Question 1,What is the capital of France?
+Paris,true
+London,false
+Berlin,false
+
+Question 2,What is 5 + 7?
+12,true
+10,false
+14,false
+
+Question 3,Which planet is known as the Red Planet?
+Mars,true
+Jupiter,false
+Venus,false
+
